@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora simples</string>
+    <string name="valorP">Primeiro valor</string>
+    <string name="valorS">Segundo valor</string>
+    <string name="calcular">Calcular</string>
+    <string name="acao_soma">Soma</string>
+    <string name="acao_subtracao">Subtração</string>
+    <string name="acao_multiplicacao">Multiplicação</string>
+    <string name="acao_divisao">Divisão</string>
+    <string name="resultado">resultado</string>
+    <string name="resultado1">resultado1</string>
+</resources>
